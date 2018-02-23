@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="apresent">Digite o número que deseja descobrir a operadora:</string>
+    <string name="app_name">Qual Operadora</string>
+    <string name="inf">Esse serviço está disponível gratuitamente para até 6 consultas num intervalo de 1 hora.</string>
+    <string name="resposta"></string>
+
+</resources>

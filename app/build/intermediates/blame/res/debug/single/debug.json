@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\QualOperadora\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\QualOperadora\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\QualOperadora\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_operadora.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\QualOperadora\\app\\src\\main\\res\\drawable\\icon_operadora.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\QualOperadora\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\QualOperadora\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    }
+]

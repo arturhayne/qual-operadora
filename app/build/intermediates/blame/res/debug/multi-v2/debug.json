@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\QualOperadora\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\QualOperadora\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "147,59,200,321",
+                        "endColumns": "51,86,120,37",
+                        "endOffsets": "194,141,316,354"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,107,194,315",
+                        "endColumns": "51,86,120,29",
+                        "endOffsets": "102,189,310,340"
+                    }
+                }
+            ]
+        }
+    ]
+}
